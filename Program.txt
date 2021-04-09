@@ -1,0 +1,9 @@
+c = 1
+a = 2
+value= a +cvv - 17
+if (a == c) {
+lol = 123
+}
+else {
+b = b + 1
+}
